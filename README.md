@@ -1,4 +1,4 @@
-# SKIMMIA Backend Challenge.
+# SKIMMIA refactor.
 
 > uses: 'node', 'javascript', 'typescript', fvvelasquez
 
