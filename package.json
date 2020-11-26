@@ -1,0 +1,8 @@
+{
+	"name": "skimmia-refactor-simple",
+	"version": "0.0.0",
+	"description": "'skimmia-backend-challenge' refactor. Se reduce complejidad del codigo. Se eliminan capas de responsabilidad de código, 'class' y 'custom types'.",
+	"main": "index.js",
+	"author": "fvvelasquez this.fvvelasquez@gmail.com",
+	"license": "ISC"
+}
